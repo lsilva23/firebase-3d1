@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "632864741543",
+    "firebase_url": "https://tresd1-4188d.firebaseio.com",
+    "project_id": "tresd1-4188d",
+    "storage_bucket": "tresd1-4188d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632864741543:android:93265bd575ae0493",
+        "android_client_info": {
+          "package_name": "com.tresd1.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632864741543-7jk09lnq0evg7rh53672oemh97h5qbsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ZBGReFHvN0qd-dYcnKfFJPSWdxqDYu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
